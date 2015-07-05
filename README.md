@@ -1,2 +1,3 @@
 # dementor
-Dementor
+
+Usage: ./dementor.sh "Firstname Lastname"
